@@ -2,8 +2,9 @@
 
 My Neo4j
 
+## My Neo4j projects
 
-## My Neo4j project (with Python, Azure)
+### Project 1 (with Python, Azure)
 
 Built a knowledge-based ontology graph application for a federal government client
 
@@ -15,5 +16,3 @@ Built a knowledge-based ontology graph application for a federal government clie
 - Imported Wikidata into Neo4j with Wikidata Query Service and SPARQL HTTP endpoint to retrieve information on particular areas.
 - Used Python NLP libraries and Azure Cognitive Services APIs to analyse data, extracted entities, key phrases, and categories, then do sentiment analysis with data science algorithms in Jupyter Notebook.
 - Used Protégé to edit ontology and publish OWL files to WebProtégé.
-
-
